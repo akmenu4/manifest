@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".." />
+
+  <default revision="refs/heads/main"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <contactinfo bugurl="go/repo-bug" />
+
+  <!-- akmenu4 -->
+  <project path="akmenu4" name="akmenu4/akmenu4" />
+
+  <!-- external - DS-Homebrew -->
+  <project path="DLDI" name="DS-Homebrew/DLDI" revision="refs/heads/builds" />
+
+</manifest>
