@@ -12,6 +12,7 @@
   <contactinfo bugurl="go/repo-bug" />
 
   <!-- akmenu4 -->
+  <project path="assets" name="akmenu4/assets" />
   <project path="akmenu4" name="akmenu4/akmenu4" />
   <project path="akmenu4/nds-bootloader" name="akmenu4/nds-bootloader" />
   <project path="build" name="akmenu4/build" >
@@ -20,5 +21,8 @@
 
   <!-- external - DS-Homebrew -->
   <project path="DLDI" name="DS-Homebrew/DLDI" revision="refs/heads/builds" />
+
+  <!-- external - LNH-team -->
+  <project path="loader/pico-loader" name="LNH-team/pico-loader" revision="refs/tags/v1.7.1" />
 
 </manifest>
