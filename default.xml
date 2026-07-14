@@ -13,7 +13,7 @@
 
   <!-- akmenu4 -->
   <project path="akmenu4" name="akmenu4/akmenu4" />
-  <project path="nds-bootloader" name="akmenu4/nds-bootloader" />
+  <project path="akmenu4/nds-bootloader" name="akmenu4/nds-bootloader" />
 
   <!-- external - DS-Homebrew -->
   <project path="DLDI" name="DS-Homebrew/DLDI" revision="refs/heads/builds" />
