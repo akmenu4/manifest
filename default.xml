@@ -18,6 +18,7 @@
   <project path="build" name="akmenu4/build" >
     <linkfile src="Makefile" dest="Makefile" />
   </project>
+  <project path="nds-miniboot" name="akmenu4/nds-miniboot" sync-s="true" />
 
   <!-- external - DS-Homebrew -->
   <project path="DLDI" name="DS-Homebrew/DLDI" revision="refs/heads/builds" />
