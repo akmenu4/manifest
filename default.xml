@@ -23,6 +23,6 @@
   <project path="DLDI" name="DS-Homebrew/DLDI" revision="refs/heads/builds" />
 
   <!-- external - LNH-team -->
-  <project path="loader/pico-loader" name="LNH-team/pico-loader" revision="refs/tags/v1.7.1" />
+  <project path="loader/pico-loader" name="LNH-team/pico-loader" revision="refs/tags/v1.7.1" sync-s="true" />
 
 </manifest>
