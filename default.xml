@@ -14,6 +14,9 @@
   <!-- akmenu4 -->
   <project path="akmenu4" name="akmenu4/akmenu4" />
   <project path="akmenu4/nds-bootloader" name="akmenu4/nds-bootloader" />
+  <project path="build" name="akmenu4/build" >
+    <linkfile src="Makefile" dest="Makefile" />
+  </project>
 
   <!-- external - DS-Homebrew -->
   <project path="DLDI" name="DS-Homebrew/DLDI" revision="refs/heads/builds" />
