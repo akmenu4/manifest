@@ -21,6 +21,9 @@
   <project path="loader/akloader-prebuilts" name="akmenu4/akloader-prebuilts" />
   <project path="nds-miniboot" name="akmenu4/nds-miniboot" sync-s="true" />
 
+  <!-- external - flashcarts.net -->
+  <project path="loader/PassMeLoader" name="flashcarts/PassMeLoader" />
+
   <!-- external - LNH-team -->
   <project path="loader/pico-loader" name="LNH-team/pico-loader" revision="refs/tags/v1.7.1" sync-s="true" />
 
